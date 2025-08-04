@@ -1,0 +1,15 @@
+#footer-cnt {
+    margin: auto;
+    max-width: 64rem;
+}
+
+
+#footer {
+    background-color: green;
+    padding: 5rem 1rem 5rem 1rem;
+}
+
+
+#footer-text {
+    text-align: center;
+}
