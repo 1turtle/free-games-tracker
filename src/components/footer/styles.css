@@ -1,11 +1,10 @@
 #footer-cnt {
     margin: auto;
-    max-width: 64rem;
 }
 
 
 #footer {
-    background-color: green;
+    background-color: #393E46;
     padding: 5rem 1rem 5rem 1rem;
 }
 

@@ -1,5 +1,5 @@
 #navbar-title {
-    background-color: #FFFFFF;
+    background-color: #393E46;
     display: flex;
     /* justify-content: space-between; */
     align-items: center;
@@ -15,7 +15,7 @@
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #FFFFFF;
+    background-color: #393E46;
 }
 
 
@@ -62,7 +62,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        background-color: #FFFFFF;
+        background-color: #393E46;
     }
     
     
@@ -84,7 +84,7 @@
     
     
     #top-navbar-list {
-        background-color: #FFFFFF;
+        background-color: #393E46;
         display: flex;
         /* justify-content: space-between; */
         align-items: center;

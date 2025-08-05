@@ -33,17 +33,30 @@
 .game {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     border: 0.25rem solid;
     border-radius: 1rem;
     /*overflow: hidden;*/
+    flex-basis: 0;
+    flex-grow: 1;
 }
 
 
 .game-img {
     /*width: 100%;*/
-    max-width: 20rem;
+    /*max-width: 20rem;*/
+    max-height: 20rem;
     border-radius: 0.75rem;
+    align-self: stretch;
+}
+
+
+.game-title-text {
+    max-width: 20rem;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 

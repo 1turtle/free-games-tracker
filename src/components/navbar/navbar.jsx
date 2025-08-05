@@ -11,14 +11,16 @@ export default function Navbar() {
                 <ul id="top-navbar">
                     <div id="top-navbar-title">
                         <IoGameControllerOutline size="2rem" />
-                        <h1 id="top-navbar-title-text">LvlUpSavings</h1>
+                        <h1 id="top-navbar-title-text">FreeGamesTracker</h1>
                     </div>
 
+                    {/*
                     <ul id="top-navbar-list">
                         <h5 id="top-navbar-item-text-1" className="top-navbar-item-text">Browse</h5>
                         <h5 id="top-navbar-item-text-2" className="top-navbar-item-text">History</h5>
                         <h5 id="top-navbar-item-text-3" className="top-navbar-item-text">Settings</h5>
                     </ul>
+                    */}
                 </ul>
             </nav>
 
@@ -27,7 +29,7 @@ export default function Navbar() {
             can always define custom styles in index.css. */}
             <div id="navbar-title">
                 <IoGameControllerOutline size="2rem" />
-                <h2 id="navbar-title-text">LvlUpSavings</h2>
+                <h2 id="navbar-title-text">FreeGamesTracker</h2>
             </div>
 
             {/* Check if your header indeeds stick using the text below...
@@ -79,6 +81,7 @@ export default function Navbar() {
             </p>
             */}
 
+            {/*
             <nav id="btm-navbar-cnt">
                 <ul id="btm-navbar">
                     <div id="btm-navbar-item-cnt-1" className="btm-navbar-item-cnt">
@@ -97,6 +100,7 @@ export default function Navbar() {
                     </div>
                 </ul>
             </nav>
+            */}
         </>
     )
 }
