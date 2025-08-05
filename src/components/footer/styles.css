@@ -1,11 +1,15 @@
 #footer-cnt {
     margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 
 #footer {
     background-color: #393E46;
     padding: 5rem 1rem 5rem 1rem;
+    margin-top: auto;
 }
 
 

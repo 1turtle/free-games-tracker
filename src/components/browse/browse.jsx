@@ -4,7 +4,10 @@ import { FaSteam } from "react-icons/fa"
 import { FaPlaystation } from "react-icons/fa"
 import { FaXbox } from "react-icons/fa"
 import { SiGogdotcom } from "react-icons/si"
-import testData from "../../resources/test_data.json";
+import { SiPrime } from "react-icons/si";
+//import testData from "../../resources/test_data.json"
+//import emptyData from "../../resources/empty.json"
+import data from "../../resources/data.json"
 
 
 
@@ -20,11 +23,11 @@ export default function Browse() {
                         </div>
 
                         <div className="games">
-                            {testData.filter(game => game.market === "epic_games").map((game, i) =>
-                                <div key={i} className="game">
-                                    <img className="game-img" alt="Hot air balloons" src={game.img} />
+                            {data.filter(game => game.market === "epic_games").map((game, i) =>
+                                <a key={i} href={game.link} target="_blank" rel="noopener noreferrer" className="game">
+                                    <img className="game-img" alt="game--img" src={game.img} />
                                     <h3 className="game-title-text">{game.title}</h3>
-                                </div>
+                                </a>
                             )}
                         </div>
                     </div>
@@ -36,11 +39,11 @@ export default function Browse() {
                         </div>
 
                         <div className="games">
-                            {testData.filter(game => game.market === "steam").map((game, i) =>
-                                <div key={i} className="game">
-                                    <img className="game-img" alt="Hot air balloons" src={game.img} />
+                            {data.filter(game => game.market === "steam").map((game, i) =>
+                                <a key={i} href={game.link} target="_blank" rel="noopener noreferrer" className="game">
+                                    <img className="game-img" alt="game--img" src={game.img} />
                                     <h3 className="game-title-text">{game.title}</h3>
-                                </div>
+                                </a>
                             )}
                         </div>
                     </div>
@@ -52,11 +55,11 @@ export default function Browse() {
                         </div>
 
                         <div className="games">
-                            {testData.filter(game => game.market === "gog").map((game, i) =>
-                                <div key={i} className="game">
-                                    <img className="game-img" alt="Hot air balloons" src={game.img} />
+                            {data.filter(game => game.market === "gog").map((game, i) =>
+                                <a key={i} href={game.link} target="_blank" rel="noopener noreferrer" className="game">
+                                    <img className="game-img" alt="game--img" src={game.img} />
                                     <h3 className="game-title-text">{game.title}</h3>
-                                </div>
+                                </a>
                             )}
                         </div>
                     </div>
@@ -68,11 +71,27 @@ export default function Browse() {
                         </div>
 
                         <div className="games">
-                            {testData.filter(game => game.market === "playstation").map((game, i) =>
-                                <div key={i} className="game">
-                                    <img className="game-img" alt="Hot air balloons" src={game.img} />
+                            {data.filter(game => game.market === "playstation").map((game, i) =>
+                                <a key={i} href={game.link} target="_blank" rel="noopener noreferrer" className="game">
+                                    <img className="game-img" alt="game--img" src={game.img} />
                                     <h3 className="game-title-text">{game.title}</h3>
-                                </div>
+                                </a>
+                            )}
+                        </div>
+                    </div>
+
+                    <div className="market">
+                        <div className="market-name">
+                            <SiPrime size="2rem" />
+                            <h2>Amazon Prime</h2>
+                        </div>
+
+                        <div className="games">
+                            {data.filter(game => game.market === "amazon").map((game, i) =>
+                                <a key={i} href={game.link} target="_blank" rel="noopener noreferrer" className="game">
+                                    <img className="game-img" alt="game--img" src={game.img} />
+                                    <h3 className="game-title-text">{game.title}</h3>
+                                </a>
                             )}
                         </div>
                     </div>

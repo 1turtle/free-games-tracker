@@ -1,5 +1,6 @@
 #navbar-title {
     background-color: #393E46;
+    color: white; /* remove for default */
     display: flex;
     /* justify-content: space-between; */
     align-items: center;
@@ -72,6 +73,7 @@
         justify-content: space-between;
         padding: 0.75rem;
         max-width: 64rem;
+        color: white; /* remove for default */
     }
     
     
