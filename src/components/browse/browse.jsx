@@ -89,7 +89,7 @@ export default function Browse() {
                         <div className="games">
                             {data.filter(game => game.market === "amazon").map((game, i) =>
                                 <a key={i} href={game.link} target="_blank" rel="noopener noreferrer" className="game">
-                                    <img className="game-img" alt="game--img" src={game.img} />
+                                    <img id="amz-img-fix" className="game-img" alt="game--img" src={game.img} />
                                     <h3 className="game-title-text">{game.title}</h3>
                                 </a>
                             )}

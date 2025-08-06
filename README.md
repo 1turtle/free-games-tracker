@@ -10,7 +10,7 @@ This website shows you free games from select markets.
 - Amazon Prime Gaming
 
 ## Description
-View the website [here]().
+View the website [here](https://freegamestracker.netlify.app/).
 
 Or you can view ```data.json``` located in ```./src/resources/``` to see the
 data manually. ```test_data.json``` and ```empty.json``` are only used for

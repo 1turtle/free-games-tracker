@@ -65,6 +65,11 @@
 }
 
 
+#amz-img-fix {
+    max-height: 5rem;
+}
+
+
 @media (min-width: 1024px) {
     .games {
         overflow-x: hidden;
