@@ -1,6 +1,7 @@
 import json, requests, re, time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 
 EPIC_URL = "https://store.epicgames.com/en-US"
 EPIC_API = "https://www.cheapshark.com/api/1.0/deals?storeID=25"
@@ -10,34 +11,40 @@ STEAM_API = "https://www.cheapshark.com/api/1.0/deals?storeID=1"
 GOG_API = "https://www.cheapshark.com/api/1.0/deals?storeID=7"
 # 1: Steam, 7: GoG, and 25: Epic Games
 
+options = Options()
+options.add_argument("--headless=new")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+
 
 
 data = []
 
-driver = webdriver.Chrome()
-time.sleep(3)
-
-try:
-    print("[SYSTEM]: Selenium running on Epic Games.")
-    driver.get(EPIC_URL)
-    driver.implicitly_wait(5)
-    epic_games_section = driver.find_element(By.CLASS_NAME, "css-1myhtyb")
-    epic_games = epic_games_section.find_elements(By.CLASS_NAME, "css-g3jcms")
-    for epic_game in epic_games:
-        epic_game_link = epic_game.get_attribute("href")
-        epic_game_title = epic_game.find_element(By.CSS_SELECTOR, ".eds_1ypbntd0.eds_1ypbntd7.eds_1ypbntdq").text
-        #epic_game_title = re.sub(r'[^a-zA-Z0-9\s]', '', epic_game_title)
-        #epic_game_title = epic_game_title.replace("  ", " ")
-        #epic_game_title = re.sub(r'\s+', " ", epic_game_title)
-        epic_game_id = epic_game_link.replace("https://store.epicgames.com/en-US/p/", "").strip().lower()
-        epic_game_img = epic_game.find_element(By.TAG_NAME, "img").get_attribute("data-image")
-        epic_game_status = epic_game.find_element(By.CSS_SELECTOR, ".css-82y1uz, .css-gyjcm9").text.strip().replace(" ", "_").lower()
-    
-        if epic_game_status == "free_now":
-            data.append({"title": epic_game_title, "id": epic_game_id, "img": epic_game_img, "link": epic_game_link, "market": "epic_games"})
-
-except Exception:
-    print("[SYSTEM]: Selenium has FAILED on Epic Games.")
+#driver = webdriver.Chrome()
+driver = webdriver.Chrome(options=options)
+#time.sleep(3)
+#
+#try:
+#    print("[SYSTEM]: Selenium running on Epic Games.")
+#    driver.get(EPIC_URL)
+#    driver.implicitly_wait(5)
+#    epic_games_section = driver.find_element(By.CLASS_NAME, "css-1myhtyb")
+#    epic_games = epic_games_section.find_elements(By.CLASS_NAME, "css-g3jcms")
+#    for epic_game in epic_games:
+#        epic_game_link = epic_game.get_attribute("href")
+#        epic_game_title = epic_game.find_element(By.CSS_SELECTOR, ".eds_1ypbntd0.eds_1ypbntd7.eds_1ypbntdq").text
+#        #epic_game_title = re.sub(r'[^a-zA-Z0-9\s]', '', epic_game_title)
+#        #epic_game_title = epic_game_title.replace("  ", " ")
+#        #epic_game_title = re.sub(r'\s+', " ", epic_game_title)
+#        epic_game_id = epic_game_link.replace("https://store.epicgames.com/en-US/p/", "").strip().lower()
+#        epic_game_img = epic_game.find_element(By.TAG_NAME, "img").get_attribute("data-image")
+#        epic_game_status = epic_game.find_element(By.CSS_SELECTOR, ".css-82y1uz, .css-gyjcm9").text.strip().replace(" ", "_").lower()
+#    
+#        if epic_game_status == "free_now":
+#            data.append({"title": epic_game_title, "id": epic_game_id, "img": epic_game_img, "link": epic_game_link, "market": "epic_games"})
+#
+#except Exception:
+#    print("[SYSTEM]: Selenium has FAILED on Epic Games.")
 
 
 time.sleep(3)
@@ -94,19 +101,19 @@ time.sleep(1)
 driver.close()
 
 
-#try:
-#    print("[SYSTEM]: Fetching Epic API...")
-#    response = requests.get(EPIC_API)
-#    epic_data = response.json()
-#    for game in epic_data:
-#        if float(game["salePrice"]) == 0 and float(game["savings"]) == 100:
-#        #if float(game["salePrice"]) > 0:
-#            epic_game_id = game["steamAppID"]
-#            epic_game_link = "http://store.steampowered.com/app/" + str(epic_game_id) + "/"
-#            data.append({"title": game["title"], "id": epic_game_id, "img": game["thumb"], "link": epic_game_link, "market": "epic_games"})
-#
-#except Exception:
-#    print("[SYSTEM]: Failed to fetch Epic API...")
+try:
+    print("[SYSTEM]: Fetching Epic API...")
+    response = requests.get(EPIC_API)
+    epic_data = response.json()
+    for game in epic_data:
+        if float(game["salePrice"]) == 0 and float(game["savings"]) == 100:
+        #if float(game["salePrice"]) > 0:
+            epic_game_id = game["steamAppID"]
+            epic_game_link = "http://store.steampowered.com/app/" + str(epic_game_id) + "/"
+            data.append({"title": game["title"], "id": epic_game_id, "img": game["thumb"], "link": epic_game_link, "market": "epic_games"})
+
+except Exception:
+    print("[SYSTEM]: Failed to fetch Epic API...")
 
 
 try:
@@ -144,5 +151,5 @@ except Exception:
 
 
 print("[SYSTEM]: Scraping is complete.")
-with open("data.json", "w") as file:
+with open("./src/resources/data.json", "w") as file:
     json.dump(data, file, indent=4)
