@@ -2,6 +2,9 @@ import json, requests, re, time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 
 EPIC_URL = "https://store.epicgames.com/en-US"
 EPIC_API = "https://www.cheapshark.com/api/1.0/deals?storeID=25"
@@ -23,6 +26,7 @@ data = []
 #driver = webdriver.Chrome()
 driver = webdriver.Chrome(options=options)
 #time.sleep(3)
+#
 #
 #try:
 #    print("[SYSTEM]: Selenium running on Epic Games.")
@@ -60,8 +64,8 @@ try:
     for ps_plus_game in ps_plus_games:
         ps_plus_game_link = ps_plus_game.get_attribute("href")
         ps_plus_game_id = ps_plus_game_link.replace("https://store.playstation.com/en-us/product/", "").strip().lower()
-        ps_plus_game_img = ps_plus_game.find_element(By.XPATH, "/html/body/div[3]/main/div/div/div[2]/section/div/div[1]/ul/li[" + str(offset) + "]/div/a/div/div/div[1]/span[2]/img[2]").get_attribute("src")
-        ps_plus_game_title = ps_plus_game.find_element(By.XPATH, "/html/body/div[3]/main/div/div/div[2]/section/div/div[1]/ul/li[" + str(offset) + "]/div/a/div/section/span").text
+        ps_plus_game_img = ps_plus_game.find_element(By.XPATH, "//*[@id='main']/div/div/div[2]/section/div/div[1]/ul/li[" + str(offset) + "]/div/a/div/div/div[1]/span[2]/img[2]").get_attribute("src")
+        ps_plus_game_title = ps_plus_game.find_element(By.XPATH, "//*[@id='main']/div/div/div[2]/section/div/div[1]/ul/li[" + str(offset) + "]/div/a/div/section/span").text
         #ps_plus_game_title = re.sub(r'[^a-zA-Z0-9\s]', "", ps_plus_game_title)
         #ps_plus_game_title = ps_plus_game_title.replace("  ", " ")
         #ps_plus_game_title = re.sub(r'\s+', " ", ps_plus_game_title)
@@ -73,25 +77,32 @@ except Exception:
 
 
 time.sleep(3)
+offset = 1
 
 
 try:
     print("[SYSTEM]: Selenium running on Prime Gaming.")
     driver.get(AMZ_PRI_URL)
-    driver.implicitly_wait(5)
-    #prime_games_section = driver.find_element(By.CLASS_NAME, "grid-carousel__content")
-    #prime_games = prime_games_section.find_elements(By.CLASS_NAME, "grid-carousel__slide");
-    prime_games_section = driver.find_element(By.XPATH, "/html/body/div[1]/div/div/main/div/div/div/div[4]/div[1]/div/div[2]/div/div/div[1]/div[1]/div/div/ul")
-    prime_games = prime_games_section.find_elements(By.TAG_NAME, "li");
-
+    time.sleep(3)
+    
+    for i in range(10):
+        driver.find_element(By.ID, ("root")).send_keys(Keys.PAGE_DOWN)
+        time.sleep(1)
+    
+    prime_games_section = driver.find_element(By.XPATH, "//*[@id='offer-section-FGWP_FULL']/div[2]/div")
+    prime_games = prime_games_section.find_elements(By.CLASS_NAME, "item-card__action");
+    
     for prime_game in prime_games:
-        prime_game_link = prime_game.find_element(By.TAG_NAME, "a").get_attribute("href")
+        load_prime_game_link = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='offer-section-FGWP_FULL']/div[2]/div/div[" + str(offset) + "]/div/div/div/a")))
+        prime_game_link = load_prime_game_link.get_attribute("href")
         prime_game_id = prime_game_link.replace("https://gaming.amazon.com/", "").strip().lower()
         end_char = prime_game_id.index("/")
         prime_game_id = prime_game_id[:end_char]
-        prime_game_img = "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg"
+        prime_game_img = prime_game.find_element(By.TAG_NAME, "img").get_attribute("src")
         prime_game_title = prime_game.find_element(By.TAG_NAME, "a").get_attribute("aria-label")
+        prime_game_title = load_prime_game_link.get_attribute("aria-label")
         data.append({"title": prime_game_title, "id": prime_game_id, "img": prime_game_img, "link": prime_game_link, "market": "amazon"})
+        offset+=1
     
 except Exception:
     print("[SYSTEM]: Selenium has FAILED on Prime Gaming.")

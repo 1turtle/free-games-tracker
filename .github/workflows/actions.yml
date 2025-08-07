@@ -3,7 +3,8 @@ name: run scrape.py
 on:
   push:
   schedule:
-    - cron: '30 15 * * *'
+    - cron: '0 17 * 1-11 4'
+    - cron: '0 17 * 12 *'
 
 permissions:
   contents: write
@@ -15,12 +16,6 @@ jobs:
 
       - name: connect actions to your repository
         uses: actions/checkout@v4
-
-      - name: Set up Chrome
-        uses: browser-actions/setup-chrome@v1
-
-      - name: Set up ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
 
       - name: setup python
         uses: actions/setup-python@v4

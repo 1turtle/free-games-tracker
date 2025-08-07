@@ -1,13 +1,14 @@
 # FreeGamesTracker
 ## Overview
-This website shows you free games from select markets.
+This "pretty" website shows free games from select markets. New video games
+are updated every Thursday at 17:00 UTC except during special events.
 
 ## Markets
-- Steam
-- Epic Games
-- GOG Games
-- Playstation Plus
-- Amazon Prime Gaming
+- [Steam](https://store.steampowered.com/) and [SteamDB](https://steamdb.info/)
+- [Epic Games](https://store.epicgames.com/en-US)
+- [GOG Games](https://www.gog.com/en/)
+- [PlayStation Plus (Subscription)](https://store.playstation.com/en-us/view/25d9b52a-7dcf-11ea-acb6-06293b18fe04/bc428b4a-f1b7-11ea-aadc-062143ad1e8d)
+- [Amazon Prime Gaming (Subscription)](https://gaming.amazon.com/home)
 
 ## Description
 View the website [here](https://freegamestracker.netlify.app/).
@@ -23,16 +24,14 @@ developmental purposes.
 - [CheapShark API](https://apidocs.cheapshark.com/#intro)
 
 ## Notes
-CheapShark API is free and provides deals on video games. Epic Games free games
-will redirect to Steam because the original web scraper is in CAPTCHA jail.
-Some links to the market may be broken due to the fact that they were manually
-reconstructed with the given information from CheapShark API. Also, since
-information was retrieve from various sources, image quality and layout will
-defer. There is a chance that the PlayStation and Prime Gaming scraper will be
-blocked. Finally, I was unable to scrape the Prime games images due to the
-fact that I would get a unable to find element error despite having the correct
-XPATH and no iframe or shadow. For more details on how to fix Selenium errors
-visit this article [here](https://dev.to/liviufromendtest/how-to-fix-the-element-not-found-error-in-selenium-28gj).
+CheapShark API provides information like deals on video games at free of
+cost and no sign up required. You will notice that Epic Games links redirect to
+the Steam market because the web scraper method, which can directly get Epic
+links, can get detected at times, so instead I resorted to the api. Therefore,
+some links may be broken due to the fact that they were manually reconstructed.
+Also, since the information was retrieved from various sources, image quality
+and layout will defer. For the best viewing purposes, I recommend device size
+of at least 1020px.
 
 ## Contribution
 - Established on August 2025 by 1turtle
