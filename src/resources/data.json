@@ -21,101 +21,157 @@
         "market": "playstation"
     },
     {
+        "title": "Sid Meier's Civilization III: Complete",
+        "id": "sid-meiers-civilization-iii-complete-gog",
+        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Thief: Definitive Edition",
+        "id": "thief-definitive-edition-gog",
+        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Marvel's Midnight Suns",
+        "id": "marvels-midnight-suns-epic",
+        "img": "https://m.media-amazon.com/images/I/71TzB9GWHOL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Star Wars Jedi Knight: Dark Forces II",
+        "id": "star-wars-jedi-knight-dark-forces-ii-gog",
+        "img": "https://m.media-amazon.com/images/I/61MYmLsaKEL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/star-wars-jedi-knight-dark-forces-ii-gog/dp/amzn1.pg.item.89491ec7-d33b-424c-80f0-4835f322663a?ingress=amzn&ref_=SM_StarWarsJediKnightDarkForcesII_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Saints Row 2",
+        "id": "saints-row-2-gog",
+        "img": "https://m.media-amazon.com/images/I/71GR-pyM1WL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/saints-row-2-gog/dp/amzn1.pg.item.1d19506e-14a8-4fd1-b636-03433f3778a9?ingress=amzn&ref_=SM_SaintsRow2_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Amnesia: The Dark Descent",
+        "id": "amnesia-the-dark-descent-epic",
+        "img": "https://m.media-amazon.com/images/I/61nzgsXs35L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/amnesia-the-dark-descent-epic/dp/amzn1.pg.item.c84e81da-9df7-4e20-9692-860dd91d67d0?ingress=amzn&ref_=SM_AmnesiaTheDarkDescent_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Saints Row IV: Re-Elected",
+        "id": "saints-row-iv-re-elected-gog",
+        "img": "https://m.media-amazon.com/images/I/61HkL62Oc2L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/saints-row-iv-re-elected-gog/dp/amzn1.pg.item.fbda79e4-9801-42dc-9ce4-396a18113537?ingress=amzn&ref_=SM_SaintsRowIVReElected_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
         "title": "ENDLESS Space 2 - Definitive Edition",
         "id": "endless-space-2-definitive-edition-aga",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61rgiRNVPZL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/endless-space-2-definitive-edition-aga/dp/amzn1.pg.item.56e1933a-814b-45b8-a3c8-c93eb41a7005?ingress=amzn&ref_=SM_ENDLESSSpace2DefinitiveEdition_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Heroes of Loot",
         "id": "heroes-of-loot-gog",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61OwH813npL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/heroes-of-loot-gog/dp/amzn1.pg.item.8d2b0758-5651-4021-b4a9-85283ceb5643?ingress=amzn&ref_=SM_HeroesofLoot_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Besiege + The Splintered Sea DLC",
         "id": "besiege-the-splintered-sea-dlc-aga",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/71VKoVJLPfL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/besiege-the-splintered-sea-dlc-aga/dp/amzn1.pg.item.14455e46-04d2-4e36-b8b9-daf8af1ee646?ingress=amzn&ref_=SM_BesiegeTheSplinteredSeaDLC_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "I Love Finding Wild Friends - CE",
         "id": "i-love-finding-wild-friends-ce-legacy",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61o6M3VXd7L._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/i-love-finding-wild-friends-ce-legacy/dp/amzn1.pg.item.ef2c8b27-bf67-4aae-82cd-1d2ca0c8771a?ingress=amzn&ref_=SM_ILoveFindingWildFriendsCE_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Venba",
         "id": "venba-gog",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/71unHZUh7WL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/venba-gog/dp/amzn1.pg.item.84eebfbe-d689-4b5c-b728-5e6a10840fe0?ingress=amzn&ref_=SM_Venba_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "TOEM",
         "id": "toem-gog",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61DLAioiEEL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/toem-gog/dp/amzn1.pg.item.f4a89a03-b64a-4273-9e6b-3e30f30b53ee?ingress=amzn&ref_=SM_TOEM_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Paquerette Down the Bunburrows",
         "id": "paquerette-down-the-bunburrows-epic",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/51g3Y5+-c-L._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/paquerette-down-the-bunburrows-epic/dp/amzn1.pg.item.c82b169f-c2b7-4ef3-bdc3-01eb756dfc7e?ingress=amzn&ref_=SM_PaqueretteDowntheBunburrows_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Boxes: Lost Fragments",
         "id": "boxes-lost-fragments-epic",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61+aniVsZuL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/boxes-lost-fragments-epic/dp/amzn1.pg.item.b740ec3a-c3a5-4487-aa0b-7c93923bfc3a?ingress=amzn&ref_=SM_BoxesLostFragments_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Stray Gods: Orpheus",
         "id": "stray-gods-orpheus-gog",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/71dC6Gm2iIL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/stray-gods-orpheus-gog/dp/amzn1.pg.item.90e6f05f-093e-4ab4-be97-ccc25d638fd0?ingress=amzn&ref_=SM_StrayGodsOrpheus_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Station to Station",
         "id": "station-to-station-aga",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/71COAq2fE8L._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/station-to-station-aga/dp/amzn1.pg.item.fda2a568-44fc-4a9d-a2e2-2c9103c57d0a?ingress=amzn&ref_=SM_StationtoStation_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "Liberte",
         "id": "liberte-epic",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61-XpP7IskL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/liberte-epic/dp/amzn1.pg.item.32fd0252-bb98-4809-8a54-c2de259639b4?ingress=amzn&ref_=SM_Liberte_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
         "title": "The Abandoned Planet",
         "id": "the-abandoned-planet-aga",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "img": "https://m.media-amazon.com/images/I/61rBQajdiTL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/the-abandoned-planet-aga/dp/amzn1.pg.item.b1352ade-baac-414f-85be-ebee571e988f?ingress=amzn&ref_=SM_TheAbandonedPlanet_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
-        "title": "Keylocker  Turn Based Cyberpunk Action",
-        "id": "1325040",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1325040/ed8f46afa234db7586ec636e33c6a0f0797eb2be/capsule_sm_120.jpg?t=1752857108",
-        "link": "http://store.steampowered.com/app/1325040/",
+        "title": "The Academy: The First Riddle",
+        "id": "the-academy-the-first-riddle-aga",
+        "img": "https://m.media-amazon.com/images/I/61EerIsEMuL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/the-academy-the-first-riddle-aga/dp/amzn1.adg.product.76ca0756-b581-4cc7-92be-2183c2c43f51?ingress=amzn&ref_=SM_TheAcademyTheFirstRiddle_S02_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "112 Operator",
+        "id": "793460",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/793460/capsule_sm_120.jpg?t=1754054476",
+        "link": "http://store.steampowered.com/app/793460/",
         "market": "epic_games"
     },
     {
-        "title": "Pilgrims",
-        "id": "1049280",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1049280/capsule_sm_120.jpg?t=1743605932",
-        "link": "http://store.steampowered.com/app/1049280/",
+        "title": "Road Redemption",
+        "id": "300380",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/300380/capsule_sm_120.jpg?t=1750706430",
+        "link": "http://store.steampowered.com/app/300380/",
         "market": "epic_games"
     }
 ]
