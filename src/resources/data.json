@@ -21,10 +21,17 @@
         "market": "playstation"
     },
     {
-        "title": "Star Wars Jedi Knight: Dark Forces II",
-        "id": "star-wars-jedi-knight-dark-forces-ii-gog",
+        "title": "ENDLESS Space 2 - Definitive Edition",
+        "id": "endless-space-2-definitive-edition-aga",
         "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
-        "link": "https://gaming.amazon.com/star-wars-jedi-knight-dark-forces-ii-gog/dp/amzn1.pg.item.89491ec7-d33b-424c-80f0-4835f322663a?ingress=amzn&ref_=SM_StarWarsJediKnightDarkForcesII_S01_FGWP_CRWN",
+        "link": "https://gaming.amazon.com/endless-space-2-definitive-edition-aga/dp/amzn1.pg.item.56e1933a-814b-45b8-a3c8-c93eb41a7005?ingress=amzn&ref_=SM_ENDLESSSpace2DefinitiveEdition_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Heroes of Loot",
+        "id": "heroes-of-loot-gog",
+        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
+        "link": "https://gaming.amazon.com/heroes-of-loot-gog/dp/amzn1.pg.item.8d2b0758-5651-4021-b4a9-85283ceb5643?ingress=amzn&ref_=SM_HeroesofLoot_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -53,13 +60,6 @@
         "id": "toem-gog",
         "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
         "link": "https://gaming.amazon.com/toem-gog/dp/amzn1.pg.item.f4a89a03-b64a-4273-9e6b-3e30f30b53ee?ingress=amzn&ref_=SM_TOEM_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Marvel's Midnight Suns",
-        "id": "marvels-midnight-suns-epic",
-        "img": "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
-        "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
