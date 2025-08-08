@@ -35,10 +35,10 @@
         "market": "amazon"
     },
     {
-        "title": "Marvel's Midnight Suns",
-        "id": "marvels-midnight-suns-epic",
-        "img": "https://m.media-amazon.com/images/I/71TzB9GWHOL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
+        "title": "The Academy: The First Riddle",
+        "id": "the-academy-the-first-riddle-aga",
+        "img": "https://m.media-amazon.com/images/I/61EerIsEMuL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/the-academy-the-first-riddle-aga/dp/amzn1.adg.product.76ca0756-b581-4cc7-92be-2183c2c43f51?ingress=amzn&ref_=SM_TheAcademyTheFirstRiddle_S02_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -60,6 +60,13 @@
         "id": "amnesia-the-dark-descent-epic",
         "img": "https://m.media-amazon.com/images/I/61nzgsXs35L._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/amnesia-the-dark-descent-epic/dp/amzn1.pg.item.c84e81da-9df7-4e20-9692-860dd91d67d0?ingress=amzn&ref_=SM_AmnesiaTheDarkDescent_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Marvel's Midnight Suns",
+        "id": "marvels-midnight-suns-epic",
+        "img": "https://m.media-amazon.com/images/I/71TzB9GWHOL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -151,13 +158,6 @@
         "id": "the-abandoned-planet-aga",
         "img": "https://m.media-amazon.com/images/I/61rBQajdiTL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/the-abandoned-planet-aga/dp/amzn1.pg.item.b1352ade-baac-414f-85be-ebee571e988f?ingress=amzn&ref_=SM_TheAbandonedPlanet_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "The Academy: The First Riddle",
-        "id": "the-academy-the-first-riddle-aga",
-        "img": "https://m.media-amazon.com/images/I/61EerIsEMuL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/the-academy-the-first-riddle-aga/dp/amzn1.adg.product.76ca0756-b581-4cc7-92be-2183c2c43f51?ingress=amzn&ref_=SM_TheAcademyTheFirstRiddle_S02_FGWP_CRWN",
         "market": "amazon"
     },
     {
