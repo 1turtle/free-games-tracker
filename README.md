@@ -1,7 +1,7 @@
 # FreeGamesTracker
 ## Overview
 This "pretty" website shows free games from select markets. New video games
-are updated every Thursday at 17:00 UTC except during special events.
+are updated every day at 17:00 UTC.
 
 ## Markets
 - [Steam](https://store.steampowered.com/) and [SteamDB](https://steamdb.info/)

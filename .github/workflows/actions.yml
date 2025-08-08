@@ -3,8 +3,7 @@ name: run scrape.py
 on:
   push:
   schedule:
-    - cron: '0 17 * 1-11 4'
-    - cron: '0 17 * 12 *'
+    - cron: '0 17 * * *'
 
 permissions:
   contents: write
