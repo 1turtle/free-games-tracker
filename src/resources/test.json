@@ -1,54 +1,26 @@
 [
     {
-        "title": "Keylocker Turn Based Cyberpunk Action",
-        "id": "keylocker-622bcc",
-        "img": "https://cdn1.epicgames.com/spt-assets/186103570e674b0f9b60a1003ec09d07/keylocker-1u0ws.png?resize=1&w=360&h=480&quality=medium",
-        "link": "https://store.epicgames.com/en-US/p/keylocker-622bcc",
-        "market": "epic_games"
-    },
-    {
-        "title": "Pilgrims",
-        "id": "pilgrims-6d250f",
-        "img": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-7asyy.jpg?resize=1&w=360&h=480&quality=medium",
-        "link": "https://store.epicgames.com/en-US/p/pilgrims-6d250f",
-        "market": "epic_games"
-    },
-    {
-        "title": "Tony Hawks Pro Skater 1 2 CrossGen Deluxe Bundle",
-        "id": "up0002-ppsa02176_00-th12rthegame0001",
-        "img": "https://image.api.playstation.com/vulcan/img/rnd/202105/0622/RqXA0OWpRXi6DiY66iWwXtkZ.png?w=440",
-        "link": "https://store.playstation.com/en-us/product/UP0002-PPSA02176_00-TH12RTHEGAME0001",
+        "title": "Lies of P",
+        "id": "lies-of-p",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/lies-of-p-screenshot-09-en-18nov22?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/lies-of-p/",
         "market": "playstation"
     },
     {
-        "title": "Yakuza Like a Dragon PS4 PS5",
-        "id": "up0177-ppsa02383_00-likeadragon00000",
-        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0917/fid2e7IysrUvFqmppIxi48GT.png?w=440",
-        "link": "https://store.playstation.com/en-us/product/UP0177-PPSA02383_00-LIKEADRAGON00000",
+        "title": "DayZ",
+        "id": "dayz",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/dayz-screenshot-01-24jul25?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/dayz/",
         "market": "playstation"
     },
     {
-        "title": "Little Nightmares",
-        "id": "up0700-cusa05929_00-littlenightmares",
-        "img": "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA05955_00/1/i_5d1dabe62154263422fbe31e6dbd1ea23887d571f018de165e4a99e0fb99d9d5/i/icon0.png?w=440",
-        "link": "https://store.playstation.com/en-us/product/UP0700-CUSA05929_00-LITTLENIGHTMARES",
+        "title": "My Hero One's Justice 2",
+        "id": "my-hero-one-s-justice-2",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/my-hero-screenshot-01-24jul25?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/my-hero-one-s-justice-2/",
         "market": "playstation"
     },
-    {
-        "title": "LIMBO",
-        "id": "48000",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/capsule_sm_120.jpg?t=1749027661",
-        "link": "http://store.steampowered.com/app/48000/",
-        "market": "steam"
-    },
-    {
-        "title": "Sid Meiers Civilization VI",
-        "id": "289070",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_sm_120.jpg?t=1740607040",
-        "link": "http://store.steampowered.com/app/289070/",
-        "market": "steam"
-    },
-    {
+	{
         "title": "Sid Meier's Civilization IV",
         "id": "3900",
         "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_sm_120.jpg?t=1724341287",
@@ -70,6 +42,41 @@
         "market": "steam"
     },
     {
+        "title": "Sid Meier's Civilization III: Complete",
+        "id": "sid-meiers-civilization-iii-complete-gog",
+        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Thief: Definitive Edition",
+        "id": "thief-definitive-edition-gog",
+        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "The Academy: The First Riddle",
+        "id": "the-academy-the-first-riddle-aga",
+        "img": "https://m.media-amazon.com/images/I/61EerIsEMuL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/the-academy-the-first-riddle-aga/dp/amzn1.adg.product.76ca0756-b581-4cc7-92be-2183c2c43f51?ingress=amzn&ref_=SM_TheAcademyTheFirstRiddle_S02_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "112 Operator",
+        "id": "793460",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/793460/capsule_sm_120.jpg?t=1754054476",
+        "link": "https://www.cheapshark.com/redirect?dealID=hE5rZj2BICTviGzirp7lCifHTlNqUBlrw7PUUbe7Hi4%3D",
+        "market": "epic_games"
+    },
+    {
+        "title": "Road Redemption",
+        "id": "300380",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/300380/capsule_sm_120.jpg?t=1750706430",
+        "link": "https://www.cheapshark.com/redirect?dealID=A4BzMtUAE8sYOBv%2BZ3aY8y2tqt2DXAMaYtsS8mPGsN4%3D",
+        "market": "epic_games"
+    },
+	{
         "title": "Dead Synchronicity: Tomorrow Comes Today",
         "id": "dead_synchronicity_tomorrow_comes_today",
         "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/339190/capsule_sm_120.jpg?t=1716976884",
@@ -88,27 +95,6 @@
         "id": "hitman_codename_47",
         "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6900/capsule_sm_120.jpg?t=1732283914",
         "link": "https://www.gog.com/en/game/hitman_codename_47/",
-        "market": "gog"
-    },
-    {
-        "title": "Always Sometimes Monsters",
-        "id": "always_sometimes_monsters",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274310/capsule_sm_120.jpg?t=1733936599",
-        "link": "https://www.gog.com/en/game/always_sometimes_monsters/",
-        "market": "gog"
-    },
-    {
-        "title": "EVERSPACE - Encounters",
-        "id": "everspace_encounters",
-        "img": "https://images.greenmangaming.com/09ae5e5398554a41a10466211b1aba18/19b59ba6f83442a7832bc80d4eb0d673.jpg",
-        "link": "https://www.gog.com/en/game/everspace_encounters/",
-        "market": "gog"
-    },
-    {
-        "title": "Where The Water Tastes Like Wine",
-        "id": "where_the_water_tastes_like_wine",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447120/capsule_sm_120.jpg?t=1599638565",
-        "link": "https://www.gog.com/en/game/where_the_water_tastes_like_wine/",
         "market": "gog"
     }
 ]

@@ -1,7 +1,9 @@
 # FreeGamesTracker
 ## Overview
-This "pretty" website shows free games from select markets. New video games
-are updated every day at 17:00 UTC.
+This website shows free video games from select markets. Potential new free
+video games are updated every Thursday at 17:00 UTC unless due to special
+events. In this website, free video games are defined as paid video games doing
+a free-to-keep promotion basically meaning a 100% discount sale.
 
 ## Markets
 - [Steam](https://store.steampowered.com/) and [SteamDB](https://steamdb.info/)
@@ -24,14 +26,12 @@ developmental purposes.
 - [CheapShark API](https://apidocs.cheapshark.com/#intro)
 
 ## Notes
-CheapShark API provides information like deals on video games at free of
-cost and no sign up required. You will notice that Epic Games links redirect to
-the Steam market because the web scraper method, which can directly get Epic
-links, can get detected at times, so instead I resorted to the api. Therefore,
-some links may be broken due to the fact that they were manually reconstructed.
-Also, since the information was retrieved from various sources, image quality
-and layout will defer. For the best viewing purposes, I recommend device size
-of at least 1020px.
+CheapShark API provides free information like deals on video games with no sign
+up required. However, any new video game release will take at least a few days to
+show up in the CheapShark database meaning that the api may not have any data
+to that game. Also, since the data was retrieved from various sources, image
+quality and layout will defer. For the best viewing purposes, I recommend a
+device size of at least 1020px.
 
 ## Contribution
 - Established on August 2025 by 1turtle
