@@ -21,10 +21,17 @@
         "market": "playstation"
     },
     {
-        "title": "Necroking",
-        "id": "necroking-gog",
-        "img": "https://m.media-amazon.com/images/I/61GLoiPh9pL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/necroking-gog/dp/amzn1.pg.item.2cfc29a9-cb2d-4a6b-b53e-a15b88bf1071?ingress=amzn&ref_=SM_Necroking_S01_FGWP_CRWN",
+        "title": "Sid Meier's Civilization III: Complete",
+        "id": "sid-meiers-civilization-iii-complete-gog",
+        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Thief: Definitive Edition",
+        "id": "thief-definitive-edition-gog",
+        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -42,6 +49,20 @@
         "market": "amazon"
     },
     {
+        "title": "Labyrinth City: Pierre the Maze Detective",
+        "id": "labyrinth-city-pierre-the-maze-detective-aga",
+        "img": "https://m.media-amazon.com/images/I/81ds1WcFedL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/labyrinth-city-pierre-the-maze-detective-aga/dp/amzn1.pg.item.8d9caace-93c2-46c2-b5a8-924158871936?ingress=amzn&ref_=SM_LabyrinthCityPierretheMazeDetective_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Silver Box Classics",
+        "id": "silver-box-classics-gog",
+        "img": "https://m.media-amazon.com/images/I/71uGBPlR1VL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/silver-box-classics-gog/dp/amzn1.pg.item.a0f2f883-35f6-4f3b-9fbf-23a212b11f2a?ingress=amzn&ref_=SM_SilverBoxClassics_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
         "title": "Tin Hearts",
         "id": "tin-hearts-gog",
         "img": "https://m.media-amazon.com/images/I/51H9XVqvHUL._FMwebp_.jpg",
@@ -49,17 +70,10 @@
         "market": "amazon"
     },
     {
-        "title": "Sid Meier's Civilization III: Complete",
-        "id": "sid-meiers-civilization-iii-complete-gog",
-        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Thief: Definitive Edition",
-        "id": "thief-definitive-edition-gog",
-        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
+        "title": "Necroking",
+        "id": "necroking-gog",
+        "img": "https://m.media-amazon.com/images/I/61GLoiPh9pL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/necroking-gog/dp/amzn1.pg.item.2cfc29a9-cb2d-4a6b-b53e-a15b88bf1071?ingress=amzn&ref_=SM_Necroking_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -70,31 +84,10 @@
         "market": "amazon"
     },
     {
-        "title": "Saints Row 2",
-        "id": "saints-row-2-gog",
-        "img": "https://m.media-amazon.com/images/I/71GR-pyM1WL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/saints-row-2-gog/dp/amzn1.pg.item.1d19506e-14a8-4fd1-b636-03433f3778a9?ingress=amzn&ref_=SM_SaintsRow2_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
         "title": "Marvel's Midnight Suns",
         "id": "marvels-midnight-suns-epic",
         "img": "https://m.media-amazon.com/images/I/71TzB9GWHOL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Saints Row IV: Re-Elected",
-        "id": "saints-row-iv-re-elected-gog",
-        "img": "https://m.media-amazon.com/images/I/61HkL62Oc2L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/saints-row-iv-re-elected-gog/dp/amzn1.pg.item.fbda79e4-9801-42dc-9ce4-396a18113537?ingress=amzn&ref_=SM_SaintsRowIVReElected_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "ENDLESS Space 2 - Definitive Edition",
-        "id": "endless-space-2-definitive-edition-aga",
-        "img": "https://m.media-amazon.com/images/I/61rgiRNVPZL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/endless-space-2-definitive-edition-aga/dp/amzn1.pg.item.56e1933a-814b-45b8-a3c8-c93eb41a7005?ingress=amzn&ref_=SM_ENDLESSSpace2DefinitiveEdition_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -123,13 +116,6 @@
         "id": "venba-gog",
         "img": "https://m.media-amazon.com/images/I/71unHZUh7WL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/venba-gog/dp/amzn1.pg.item.84eebfbe-d689-4b5c-b728-5e6a10840fe0?ingress=amzn&ref_=SM_Venba_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "TOEM",
-        "id": "toem-gog",
-        "img": "https://m.media-amazon.com/images/I/61DLAioiEEL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/toem-gog/dp/amzn1.pg.item.f4a89a03-b64a-4273-9e6b-3e30f30b53ee?ingress=amzn&ref_=SM_TOEM_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -168,17 +154,17 @@
         "market": "amazon"
     },
     {
-        "title": "Hidden Folks",
-        "id": "435400",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435400/capsule_sm_120.jpg?t=1726589872",
-        "link": "https://www.cheapshark.com/redirect?dealID=hRQa%2FezOhR9hnLRmRPuh%2B0WM%2BKgoPrS%2F3R9zHVsOMlA%3D",
+        "title": "Strange Horticulture",
+        "id": "1574580",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574580/capsule_sm_120.jpg?t=1741961232",
+        "link": "https://www.cheapshark.com/redirect?dealID=6vgiw%2B98cQZ8esBfVOTIzkTIXcAVfREY5%2FWcEGAXYno%3D",
         "market": "epic_games"
     },
     {
-        "title": "Totally Reliable Delivery Service Standard Edition",
+        "title": "Kamaeru",
         "id": null,
-        "img": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg",
-        "link": "https://www.cheapshark.com/redirect?dealID=HKehr6i14kOosU9I0231Je100D9hkBySvn8jN%2Bue8MM%3D",
+        "img": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png",
+        "link": "https://www.cheapshark.com/redirect?dealID=sufIs84q5dRQn4lav%2Frz5t5HNs5A%2BxePWaApOzYS%2F9w%3D",
         "market": "epic_games"
     }
 ]
