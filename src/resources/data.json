@@ -21,20 +21,6 @@
         "market": "playstation"
     },
     {
-        "title": "Sid Meier's Civilization III: Complete",
-        "id": "sid-meiers-civilization-iii-complete-gog",
-        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Thief: Definitive Edition",
-        "id": "thief-definitive-edition-gog",
-        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
         "title": "FATE: The Traitor Soul",
         "id": "fate-the-traitor-soul-gog",
         "img": "https://m.media-amazon.com/images/I/71UqLx+fN0L._FMwebp_.jpg",
@@ -46,6 +32,41 @@
         "id": "filthy-animals-heist-simulator-epic",
         "img": "https://m.media-amazon.com/images/I/71xbh6xxbZL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/filthy-animals-heist-simulator-epic/dp/amzn1.pg.item.12c2df0c-8e84-484d-b045-b5fd9fee7610?ingress=amzn&ref_=SM_FilthyAnimalsHeistSimulator_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Thief: Definitive Edition",
+        "id": "thief-definitive-edition-gog",
+        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Sid Meier's Civilization III: Complete",
+        "id": "sid-meiers-civilization-iii-complete-gog",
+        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Fantasy Empires",
+        "id": "fantasy-empires-gog",
+        "img": "https://m.media-amazon.com/images/I/71ATCx+eA9L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/fantasy-empires-gog/dp/amzn1.pg.item.8d18454f-8b8b-4ee4-a868-9239710669ec?ingress=amzn&ref_=SM_FantasyEmpires_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Heroes of Loot 2",
+        "id": "heroes-of-loot-2-gog",
+        "img": "https://m.media-amazon.com/images/I/614eTdrc4tL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/heroes-of-loot-2-gog/dp/amzn1.pg.item.960ca075-f916-4013-a454-4d7d4d53a496?ingress=amzn&ref_=SM_HeroesofLoot2_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "City Legends: The Ghost of Misty Hill - CE",
+        "id": "city-legends-the-ghost-of-misty-hill-ce-legacy",
+        "img": "https://m.media-amazon.com/images/I/61AvHvwpf-L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/city-legends-the-ghost-of-misty-hill-ce-legacy/dp/amzn1.pg.item.598f7c0e-768c-4699-a769-15c5de6b5e40?ingress=amzn&ref_=SM_CityLegendsTheGhostofMistyHillCE_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -105,13 +126,6 @@
         "market": "amazon"
     },
     {
-        "title": "I Love Finding Wild Friends - CE",
-        "id": "i-love-finding-wild-friends-ce-legacy",
-        "img": "https://m.media-amazon.com/images/I/61o6M3VXd7L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/i-love-finding-wild-friends-ce-legacy/dp/amzn1.pg.item.ef2c8b27-bf67-4aae-82cd-1d2ca0c8771a?ingress=amzn&ref_=SM_ILoveFindingWildFriendsCE_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
         "title": "Venba",
         "id": "venba-gog",
         "img": "https://m.media-amazon.com/images/I/71unHZUh7WL._FMwebp_.jpg",
@@ -133,20 +147,6 @@
         "market": "amazon"
     },
     {
-        "title": "Stray Gods: Orpheus",
-        "id": "stray-gods-orpheus-gog",
-        "img": "https://m.media-amazon.com/images/I/71dC6Gm2iIL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/stray-gods-orpheus-gog/dp/amzn1.pg.item.90e6f05f-093e-4ab4-be97-ccc25d638fd0?ingress=amzn&ref_=SM_StrayGodsOrpheus_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Liberte",
-        "id": "liberte-epic",
-        "img": "https://m.media-amazon.com/images/I/61-XpP7IskL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/liberte-epic/dp/amzn1.pg.item.32fd0252-bb98-4809-8a54-c2de259639b4?ingress=amzn&ref_=SM_Liberte_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
         "title": "The Abandoned Planet",
         "id": "the-abandoned-planet-aga",
         "img": "https://m.media-amazon.com/images/I/61rBQajdiTL._FMwebp_.jpg",
@@ -154,17 +154,17 @@
         "market": "amazon"
     },
     {
-        "title": "Strange Horticulture",
-        "id": "1574580",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574580/capsule_sm_120.jpg?t=1741961232",
-        "link": "https://www.cheapshark.com/redirect?dealID=6vgiw%2B98cQZ8esBfVOTIzkTIXcAVfREY5%2FWcEGAXYno%3D",
+        "title": "Machinarium",
+        "id": "40700",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/capsule_sm_120.jpg?t=1748258174",
+        "link": "https://www.cheapshark.com/redirect?dealID=FZqKf%2FNjF%2BrPKt8Z%2BuDiv6KpuTyueeEeEvpZNJeKQK4%3D",
         "market": "epic_games"
     },
     {
-        "title": "Kamaeru",
-        "id": null,
-        "img": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png",
-        "link": "https://www.cheapshark.com/redirect?dealID=sufIs84q5dRQn4lav%2Frz5t5HNs5A%2BxePWaApOzYS%2F9w%3D",
+        "title": "Make Way",
+        "id": "1445790",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/capsule_sm_120.jpg?t=1754475272",
+        "link": "https://www.cheapshark.com/redirect?dealID=DXqEEpS%2Fn1LNaghUJk0f5nIoPf3P85BvUId7UaF32Fw%3D",
         "market": "epic_games"
     }
 ]
