@@ -1,23 +1,23 @@
 [
     {
-        "title": "Lies of P",
-        "id": "lies-of-p",
-        "img": "https://gmedia.playstation.com/is/image/SIEPDC/lies-of-p-screenshot-09-en-18nov22?$1600px$",
-        "link": "https://www.playstation.com/en-us/games/lies-of-p/",
+        "title": "Psychonauts 2",
+        "id": "psychonauts-2",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/psychonauts-2-screenshot-21aug25?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/psychonauts-2/",
         "market": "playstation"
     },
     {
-        "title": "DayZ",
-        "id": "dayz",
-        "img": "https://gmedia.playstation.com/is/image/SIEPDC/dayz-screenshot-01-24jul25?$1600px$",
-        "link": "https://www.playstation.com/en-us/games/dayz/",
+        "title": "Stardew Valley",
+        "id": "stardew-valley",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/stardew-valley-screenshot-01-en-09april24?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/stardew-valley/",
         "market": "playstation"
     },
     {
-        "title": "My Hero One's Justice 2",
-        "id": "my-hero-one-s-justice-2",
-        "img": "https://gmedia.playstation.com/is/image/SIEPDC/my-hero-screenshot-01-24jul25?$1600px$",
-        "link": "https://www.playstation.com/en-us/games/my-hero-one-s-justice-2/",
+        "title": "Viewfinder",
+        "id": "viewfinder",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/viewfinder-screen-08-en-26jun23?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/viewfinder/",
         "market": "playstation"
     },
     {
@@ -35,6 +35,34 @@
         "market": "amazon"
     },
     {
+        "title": "Tower of Time",
+        "id": "tower-of-time-gog",
+        "img": "https://m.media-amazon.com/images/I/61JDJJ-v4fL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/tower-of-time-gog/dp/amzn1.pg.item.6b0bdd09-4364-43e9-a4db-01d798eed2f8?ingress=amzn&ref_=SM_TowerofTime_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Afterimage",
+        "id": "afterimage-aga",
+        "img": "https://m.media-amazon.com/images/I/71Osjcb4v5L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/afterimage-aga/dp/amzn1.pg.item.f18930ba-9433-4248-b54a-83086669219e?ingress=amzn&ref_=SM_Afterimage_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Subterrain: Mines of Titan",
+        "id": "subterrain-mines-of-titan-aga",
+        "img": "https://m.media-amazon.com/images/I/61PXjfBR6rL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/subterrain-mines-of-titan-aga/dp/amzn1.pg.item.b1a16e26-3fac-422c-a625-6be6b7fbcdf6?ingress=amzn&ref_=SM_SubterrainMinesofTitan_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Spelljammer: Pirates of Realmspace",
+        "id": "spelljammer-pirates-of-realmspace-gog",
+        "img": "https://m.media-amazon.com/images/I/61IJlN4IzmL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/spelljammer-pirates-of-realmspace-gog/dp/amzn1.pg.item.52ec4505-b95f-4bb7-8158-52738aaf002b?ingress=amzn&ref_=SM_SpelljammerPiratesofRealmspace_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
         "title": "Dungeons & Dragons: Ravenloft Series",
         "id": "dungeons-dragons-ravenloft-series-gog",
         "img": "https://m.media-amazon.com/images/I/71hX1SiMIJL._FMwebp_.jpg",
@@ -46,13 +74,6 @@
         "id": "sid-meiers-civilization-iii-complete-gog",
         "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Thief: Definitive Edition",
-        "id": "thief-definitive-edition-gog",
-        "img": "https://m.media-amazon.com/images/I/51X4VhGOhvL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/thief-definitive-edition-gog/dp/amzn1.pg.item.5459de31-3213-4783-b157-d8f05bcd1f8d?ingress=amzn&ref_=SM_ThiefDefinitiveEdition_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -161,10 +182,24 @@
         "market": "amazon"
     },
     {
-        "title": "Monument Valley",
-        "id": "1927720",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927720/capsule_sm_120.jpg?t=1756148289",
-        "link": "https://www.cheapshark.com/redirect?dealID=RMTqOg%2BlSEFDD2TBOEZMuvPfZoqom2%2FO%2FZlz%2F%2Bp63jE%3D",
+        "title": "Ghostrunner 2",
+        "id": "2144740",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2144740/2553a29b164258cb9de5dc87565e94bff88e9108/capsule_sm_120.jpg?t=1741369902",
+        "link": "https://www.cheapshark.com/redirect?dealID=t9LUURTw8Q%2FP5Id1A0VC%2FRworiamuym0U091V0SCWqQ%3D",
+        "market": "epic_games"
+    },
+    {
+        "title": "The Battle of Polytopia",
+        "id": "874390",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/874390/capsule_sm_120.jpg?t=1746620159",
+        "link": "https://www.cheapshark.com/redirect?dealID=O8W3lQTYIkL4VKZedz2aGnHfe%2Ft0ARh4DaEjaOHGkPY%3D",
+        "market": "epic_games"
+    },
+    {
+        "title": "Monument Valley 2",
+        "id": "1927740",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927740/capsule_sm_120.jpg?t=1756148142",
+        "link": "https://www.cheapshark.com/redirect?dealID=SHvwCHPh1%2BfZdoj%2BBwRsZ9yuydNr9JVYJ369r0UOFhw%3D",
         "market": "epic_games"
     }
 ]
