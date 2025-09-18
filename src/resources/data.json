@@ -21,17 +21,24 @@
         "market": "playstation"
     },
     {
-        "title": "Into the Breach",
-        "id": "into-the-breach-epic",
-        "img": "https://m.media-amazon.com/images/I/61mvSZCSNPL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/into-the-breach-epic/dp/amzn1.pg.item.91396c74-544b-4642-a356-3c45fcd66e22?ingress=amzn&ref_=SM_IntotheBreach_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
         "title": "Sid Meier's Civilization IV: The Complete Edition",
         "id": "sid-meiers-civilization-iv-the-complete-edition-gog",
         "img": "https://m.media-amazon.com/images/I/61o55vjot+L._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/sid-meiers-civilization-iv-the-complete-edition-gog/dp/amzn1.pg.item.f2368999-6acb-4f03-9f99-b14711e926ee?ingress=amzn&ref_=SM_SidMeiersCivilizationIVTheCompleteEdition_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "FATE: The Cursed King",
+        "id": "fate-the-cursed-king-gog",
+        "img": "https://m.media-amazon.com/images/I/61GfvG315yL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/fate-the-cursed-king-gog/dp/amzn1.pg.item.d2b5ccef-a10d-4db3-abd9-de6620c11970?ingress=amzn&ref_=SM_FATETheCursedKing_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Sid Meier's Civilization III: Complete",
+        "id": "sid-meiers-civilization-iii-complete-gog",
+        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -42,10 +49,10 @@
         "market": "amazon"
     },
     {
-        "title": "Afterimage",
-        "id": "afterimage-aga",
-        "img": "https://m.media-amazon.com/images/I/71Osjcb4v5L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/afterimage-aga/dp/amzn1.pg.item.f18930ba-9433-4248-b54a-83086669219e?ingress=amzn&ref_=SM_Afterimage_S01_FGWP_CRWN",
+        "title": "Residual",
+        "id": "residual-gog",
+        "img": "https://m.media-amazon.com/images/I/61BKFudWSgL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/residual-gog/dp/amzn1.pg.item.6c1f74ce-2720-4cb5-a5f1-b996c8a7a1fa?ingress=amzn&ref_=SM_Residual_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -53,6 +60,13 @@
         "id": "subterrain-mines-of-titan-aga",
         "img": "https://m.media-amazon.com/images/I/61PXjfBR6rL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/subterrain-mines-of-titan-aga/dp/amzn1.pg.item.b1a16e26-3fac-422c-a625-6be6b7fbcdf6?ingress=amzn&ref_=SM_SubterrainMinesofTitan_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Afterimage",
+        "id": "afterimage-aga",
+        "img": "https://m.media-amazon.com/images/I/71Osjcb4v5L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/afterimage-aga/dp/amzn1.pg.item.f18930ba-9433-4248-b54a-83086669219e?ingress=amzn&ref_=SM_Afterimage_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -70,24 +84,10 @@
         "market": "amazon"
     },
     {
-        "title": "Sid Meier's Civilization III: Complete",
-        "id": "sid-meiers-civilization-iii-complete-gog",
-        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "FATE: The Traitor Soul",
-        "id": "fate-the-traitor-soul-gog",
-        "img": "https://m.media-amazon.com/images/I/71UqLx+fN0L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/fate-the-traitor-soul-gog/dp/amzn1.pg.item.3262e6c6-27de-4816-935f-5ceb2698177b?ingress=amzn&ref_=SM_FATETheTraitorSoul_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Filthy Animals: Heist Simulator",
-        "id": "filthy-animals-heist-simulator-epic",
-        "img": "https://m.media-amazon.com/images/I/71xbh6xxbZL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/filthy-animals-heist-simulator-epic/dp/amzn1.pg.item.12c2df0c-8e84-484d-b045-b5fd9fee7610?ingress=amzn&ref_=SM_FilthyAnimalsHeistSimulator_S01_FGWP_CRWN",
+        "title": "Into the Breach",
+        "id": "into-the-breach-epic",
+        "img": "https://m.media-amazon.com/images/I/61mvSZCSNPL._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/into-the-breach-epic/dp/amzn1.pg.item.91396c74-544b-4642-a356-3c45fcd66e22?ingress=amzn&ref_=SM_IntotheBreach_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -95,13 +95,6 @@
         "id": "marvels-midnight-suns-epic",
         "img": "https://m.media-amazon.com/images/I/71TzB9GWHOL._FMwebp_.jpg",
         "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Besiege + The Splintered Sea DLC",
-        "id": "besiege-the-splintered-sea-dlc-aga",
-        "img": "https://m.media-amazon.com/images/I/71VKoVJLPfL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/besiege-the-splintered-sea-dlc-aga/dp/amzn1.pg.item.14455e46-04d2-4e36-b8b9-daf8af1ee646?ingress=amzn&ref_=SM_BesiegeTheSplinteredSeaDLC_S01_FGWP_CRWN",
         "market": "amazon"
     },
     {
@@ -147,13 +140,6 @@
         "market": "amazon"
     },
     {
-        "title": "Necroking",
-        "id": "necroking-gog",
-        "img": "https://m.media-amazon.com/images/I/61GLoiPh9pL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/necroking-gog/dp/amzn1.pg.item.2cfc29a9-cb2d-4a6b-b53e-a15b88bf1071?ingress=amzn&ref_=SM_Necroking_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
         "title": "City Legends: The Ghost of Misty Hill - CE",
         "id": "city-legends-the-ghost-of-misty-hill-ce-legacy",
         "img": "https://m.media-amazon.com/images/I/61AvHvwpf-L._FMwebp_.jpg",
@@ -182,24 +168,17 @@
         "market": "amazon"
     },
     {
-        "title": "Ghostrunner 2",
-        "id": "2144740",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2144740/2553a29b164258cb9de5dc87565e94bff88e9108/capsule_sm_120.jpg?t=1741369902",
-        "link": "https://www.cheapshark.com/redirect?dealID=t9LUURTw8Q%2FP5Id1A0VC%2FRworiamuym0U091V0SCWqQ%3D",
+        "title": "Samorost2",
+        "id": "40720",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40720/capsule_sm_120.jpg?t=1757929389",
+        "link": "https://www.cheapshark.com/redirect?dealID=gBHdBmf1eiKyiRVIsmwQPuI5UIOxU07XeTd%2F5Nemc3o%3D",
         "market": "epic_games"
     },
     {
-        "title": "The Battle of Polytopia",
-        "id": "874390",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/874390/capsule_sm_120.jpg?t=1746620159",
-        "link": "https://www.cheapshark.com/redirect?dealID=O8W3lQTYIkL4VKZedz2aGnHfe%2Ft0ARh4DaEjaOHGkPY%3D",
-        "market": "epic_games"
-    },
-    {
-        "title": "Monument Valley 2",
-        "id": "1927740",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927740/capsule_sm_120.jpg?t=1756148142",
-        "link": "https://www.cheapshark.com/redirect?dealID=SHvwCHPh1%2BfZdoj%2BBwRsZ9yuydNr9JVYJ369r0UOFhw%3D",
+        "title": "Project Winter",
+        "id": "774861",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774861/c635cf54c2a54561d61fca578115b2295f0478bc/capsule_sm_120.jpg?t=1758207786",
+        "link": "https://www.cheapshark.com/redirect?dealID=NFJl2ZFOxMYghNcDOqMNWEhgLyo3%2Fnv7tZrE6IC6VRo%3D",
         "market": "epic_games"
     }
 ]
