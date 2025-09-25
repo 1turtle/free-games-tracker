@@ -21,164 +21,17 @@
         "market": "playstation"
     },
     {
-        "title": "Sid Meier's Civilization IV: The Complete Edition",
-        "id": "sid-meiers-civilization-iv-the-complete-edition-gog",
-        "img": "https://m.media-amazon.com/images/I/61o55vjot+L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/sid-meiers-civilization-iv-the-complete-edition-gog/dp/amzn1.pg.item.f2368999-6acb-4f03-9f99-b14711e926ee?ingress=amzn&ref_=SM_SidMeiersCivilizationIVTheCompleteEdition_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "FATE: The Cursed King",
-        "id": "fate-the-cursed-king-gog",
-        "img": "https://m.media-amazon.com/images/I/61GfvG315yL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/fate-the-cursed-king-gog/dp/amzn1.pg.item.d2b5ccef-a10d-4db3-abd9-de6620c11970?ingress=amzn&ref_=SM_FATETheCursedKing_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Sid Meier's Civilization III: Complete",
-        "id": "sid-meiers-civilization-iii-complete-gog",
-        "img": "https://m.media-amazon.com/images/I/61guQJVcOrL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/sid-meiers-civilization-iii-complete-gog/dp/amzn1.pg.item.5fbd746f-789f-4b0e-b428-e61e61e54990?ingress=amzn&ref_=SM_SidMeiersCivilizationIIIComplete_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Tower of Time",
-        "id": "tower-of-time-gog",
-        "img": "https://m.media-amazon.com/images/I/61JDJJ-v4fL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/tower-of-time-gog/dp/amzn1.pg.item.6b0bdd09-4364-43e9-a4db-01d798eed2f8?ingress=amzn&ref_=SM_TowerofTime_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Residual",
-        "id": "residual-gog",
-        "img": "https://m.media-amazon.com/images/I/61BKFudWSgL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/residual-gog/dp/amzn1.pg.item.6c1f74ce-2720-4cb5-a5f1-b996c8a7a1fa?ingress=amzn&ref_=SM_Residual_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Subterrain: Mines of Titan",
-        "id": "subterrain-mines-of-titan-aga",
-        "img": "https://m.media-amazon.com/images/I/61PXjfBR6rL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/subterrain-mines-of-titan-aga/dp/amzn1.pg.item.b1a16e26-3fac-422c-a625-6be6b7fbcdf6?ingress=amzn&ref_=SM_SubterrainMinesofTitan_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Afterimage",
-        "id": "afterimage-aga",
-        "img": "https://m.media-amazon.com/images/I/71Osjcb4v5L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/afterimage-aga/dp/amzn1.pg.item.f18930ba-9433-4248-b54a-83086669219e?ingress=amzn&ref_=SM_Afterimage_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Spelljammer: Pirates of Realmspace",
-        "id": "spelljammer-pirates-of-realmspace-gog",
-        "img": "https://m.media-amazon.com/images/I/61IJlN4IzmL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/spelljammer-pirates-of-realmspace-gog/dp/amzn1.pg.item.52ec4505-b95f-4bb7-8158-52738aaf002b?ingress=amzn&ref_=SM_SpelljammerPiratesofRealmspace_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Dungeons & Dragons: Ravenloft Series",
-        "id": "dungeons-dragons-ravenloft-series-gog",
-        "img": "https://m.media-amazon.com/images/I/71hX1SiMIJL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/dungeons-dragons-ravenloft-series-gog/dp/amzn1.pg.item.55f1ae41-15d1-49bd-99ca-9e5189c1724a?ingress=amzn&ref_=SM_DungeonsDragonsRavenloftSeries_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Into the Breach",
-        "id": "into-the-breach-epic",
-        "img": "https://m.media-amazon.com/images/I/61mvSZCSNPL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/into-the-breach-epic/dp/amzn1.pg.item.91396c74-544b-4642-a356-3c45fcd66e22?ingress=amzn&ref_=SM_IntotheBreach_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Marvel's Midnight Suns",
-        "id": "marvels-midnight-suns-epic",
-        "img": "https://m.media-amazon.com/images/I/71TzB9GWHOL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/marvels-midnight-suns-epic/dp/amzn1.pg.item.34565474-5bb1-47a6-8ee2-814063c5e81f?ingress=amzn&ref_=SM_MarvelsMidnightSuns_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Fantasy Empires",
-        "id": "fantasy-empires-gog",
-        "img": "https://m.media-amazon.com/images/I/71ATCx+eA9L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/fantasy-empires-gog/dp/amzn1.pg.item.8d18454f-8b8b-4ee4-a868-9239710669ec?ingress=amzn&ref_=SM_FantasyEmpires_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Silver Box Classics",
-        "id": "silver-box-classics-gog",
-        "img": "https://m.media-amazon.com/images/I/71uGBPlR1VL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/silver-box-classics-gog/dp/amzn1.pg.item.a0f2f883-35f6-4f3b-9fbf-23a212b11f2a?ingress=amzn&ref_=SM_SilverBoxClassics_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Heroes of Loot",
-        "id": "heroes-of-loot-gog",
-        "img": "https://m.media-amazon.com/images/I/61OwH813npL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/heroes-of-loot-gog/dp/amzn1.pg.item.8d2b0758-5651-4021-b4a9-85283ceb5643?ingress=amzn&ref_=SM_HeroesofLoot_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Heroes of Loot 2",
-        "id": "heroes-of-loot-2-gog",
-        "img": "https://m.media-amazon.com/images/I/614eTdrc4tL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/heroes-of-loot-2-gog/dp/amzn1.pg.item.960ca075-f916-4013-a454-4d7d4d53a496?ingress=amzn&ref_=SM_HeroesofLoot2_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Venba",
-        "id": "venba-gog",
-        "img": "https://m.media-amazon.com/images/I/71unHZUh7WL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/venba-gog/dp/amzn1.pg.item.84eebfbe-d689-4b5c-b728-5e6a10840fe0?ingress=amzn&ref_=SM_Venba_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Tin Hearts",
-        "id": "tin-hearts-gog",
-        "img": "https://m.media-amazon.com/images/I/51H9XVqvHUL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/tin-hearts-gog/dp/amzn1.pg.item.c329300a-91ea-41aa-bfe5-d4b22eb87647?ingress=amzn&ref_=SM_TinHearts_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "City Legends: The Ghost of Misty Hill - CE",
-        "id": "city-legends-the-ghost-of-misty-hill-ce-legacy",
-        "img": "https://m.media-amazon.com/images/I/61AvHvwpf-L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/city-legends-the-ghost-of-misty-hill-ce-legacy/dp/amzn1.pg.item.598f7c0e-768c-4699-a769-15c5de6b5e40?ingress=amzn&ref_=SM_CityLegendsTheGhostofMistyHillCE_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Labyrinth City: Pierre the Maze Detective",
-        "id": "labyrinth-city-pierre-the-maze-detective-aga",
-        "img": "https://m.media-amazon.com/images/I/81ds1WcFedL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/labyrinth-city-pierre-the-maze-detective-aga/dp/amzn1.pg.item.8d9caace-93c2-46c2-b5a8-924158871936?ingress=amzn&ref_=SM_LabyrinthCityPierretheMazeDetective_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "The Academy: The First Riddle",
-        "id": "the-academy-the-first-riddle-aga",
-        "img": "https://m.media-amazon.com/images/I/61EerIsEMuL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/the-academy-the-first-riddle-aga/dp/amzn1.adg.product.76ca0756-b581-4cc7-92be-2183c2c43f51?ingress=amzn&ref_=SM_TheAcademyTheFirstRiddle_S02_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Boxes: Lost Fragments",
-        "id": "boxes-lost-fragments-epic",
-        "img": "https://m.media-amazon.com/images/I/61+aniVsZuL._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/boxes-lost-fragments-epic/dp/amzn1.pg.item.b740ec3a-c3a5-4487-aa0b-7c93923bfc3a?ingress=amzn&ref_=SM_BoxesLostFragments_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Samorost2",
-        "id": "40720",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40720/capsule_sm_120.jpg?t=1757929389",
-        "link": "https://www.cheapshark.com/redirect?dealID=gBHdBmf1eiKyiRVIsmwQPuI5UIOxU07XeTd%2F5Nemc3o%3D",
+        "title": "Eastern Exorcist",
+        "id": "1120810",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1120810/capsule_sm_120.jpg?t=1735635525",
+        "link": "https://www.cheapshark.com/redirect?dealID=A43suDmcPIWSbbjqEgAn%2FStAfgVHeHREwtaYzcTrt1k%3D",
         "market": "epic_games"
     },
     {
-        "title": "Project Winter",
-        "id": "774861",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774861/c635cf54c2a54561d61fca578115b2295f0478bc/capsule_sm_120.jpg?t=1758207786",
-        "link": "https://www.cheapshark.com/redirect?dealID=NFJl2ZFOxMYghNcDOqMNWEhgLyo3%2Fnv7tZrE6IC6VRo%3D",
+        "title": "Jorels Brother and The Most Important Game of the Galaxy",
+        "id": null,
+        "img": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-um1nx.png",
+        "link": "https://www.cheapshark.com/redirect?dealID=CmJHruAnf3pJbcmz32vzU3EsnAHICkqYfltSSLQy7co%3D",
         "market": "epic_games"
     }
 ]
