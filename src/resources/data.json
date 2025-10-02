@@ -21,17 +21,31 @@
         "market": "playstation"
     },
     {
-        "title": "Eastern Exorcist",
-        "id": "1120810",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1120810/capsule_sm_120.jpg?t=1735635525",
-        "link": "https://www.cheapshark.com/redirect?dealID=A43suDmcPIWSbbjqEgAn%2FStAfgVHeHREwtaYzcTrt1k%3D",
-        "market": "epic_games"
+        "title": "Tormented Souls",
+        "id": "tormented-souls-aga",
+        "img": "https://m.media-amazon.com/images/I/71Zu90yxN4L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/tormented-souls-aga/dp/amzn1.pg.item.11649f66-25ae-443a-a472-15f4a6d7180b?ingress=amzn&ref_=SM_TormentedSouls_S01_FGWP_CRWN",
+        "market": "amazon"
     },
     {
-        "title": "Jorels Brother and The Most Important Game of the Galaxy",
-        "id": null,
-        "img": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-um1nx.png",
-        "link": "https://www.cheapshark.com/redirect?dealID=CmJHruAnf3pJbcmz32vzU3EsnAHICkqYfltSSLQy7co%3D",
+        "title": "Sid Meier's Civilization IV: The Complete Edition",
+        "id": "sid-meiers-civilization-iv-the-complete-edition-gog",
+        "img": "https://m.media-amazon.com/images/I/61o55vjot+L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/sid-meiers-civilization-iv-the-complete-edition-gog/dp/amzn1.pg.item.f2368999-6acb-4f03-9f99-b14711e926ee?ingress=amzn&ref_=SM_SidMeiersCivilizationIVTheCompleteEdition_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "DragonStrike",
+        "id": "dragonstrike-gog",
+        "img": "https://m.media-amazon.com/images/I/71U10hmyC7L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/dragonstrike-gog/dp/amzn1.pg.item.0aa4e118-1a0f-435f-a1e6-5cb1370161e4?ingress=amzn&ref_=SM_DragonStrike_S01_FGWP_CRWN",
+        "market": "amazon"
+    },
+    {
+        "title": "Nightingale",
+        "id": "1928980",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928980/capsule_231x87.jpg?t=1757007478",
+        "link": "https://www.cheapshark.com/redirect?dealID=T95qwOtY2rZhNZ8O0HpmXkbL6xiPBoSrvXRFRLqTYRY%3D",
         "market": "epic_games"
     }
 ]
