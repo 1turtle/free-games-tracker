@@ -1,24 +1,31 @@
 [
     {
-        "title": "Psychonauts 2",
-        "id": "psychonauts-2",
-        "img": "https://gmedia.playstation.com/is/image/SIEPDC/psychonauts-2-screenshot-21aug25?$1600px$",
-        "link": "https://www.playstation.com/en-us/games/psychonauts-2/",
+        "title": "Alan Wake 2",
+        "id": "alan-wake-2",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/alan_wake_2_06072023_08-ps5-en-07jun23?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/alan-wake-2/",
         "market": "playstation"
     },
     {
-        "title": "Stardew Valley",
-        "id": "stardew-valley",
-        "img": "https://gmedia.playstation.com/is/image/SIEPDC/stardew-valley-screenshot-01-en-09april24?$1600px$",
-        "link": "https://www.playstation.com/en-us/games/stardew-valley/",
+        "title": "Goat Simulator 3",
+        "id": "goat-simulator-3",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/Goat-Simulator-3-Screenshot-01-27jun22?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/goat-simulator-3/",
         "market": "playstation"
     },
     {
-        "title": "Viewfinder",
-        "id": "viewfinder",
-        "img": "https://gmedia.playstation.com/is/image/SIEPDC/viewfinder-screen-08-en-26jun23?$1600px$",
-        "link": "https://www.playstation.com/en-us/games/viewfinder/",
+        "title": "Cocoon",
+        "id": "cocoon",
+        "img": "https://gmedia.playstation.com/is/image/SIEPDC/cocoon-store-art-en-19sep25?$1600px$",
+        "link": "https://www.playstation.com/en-us/games/cocoon/",
         "market": "playstation"
+    },
+    {
+        "title": "XCOM 2",
+        "id": "xcom-2-gog",
+        "img": "https://m.media-amazon.com/images/I/611zGKzMA1L._FMwebp_.jpg",
+        "link": "https://gaming.amazon.com/xcom-2-gog/dp/amzn1.pg.item.13e05c49-cb97-43b3-82c2-0fab0271a873?ingress=amzn&ref_=SM_XCOM2_S01_FGWP_CRWN",
+        "market": "amazon"
     },
     {
         "title": "Tormented Souls",
@@ -35,17 +42,10 @@
         "market": "amazon"
     },
     {
-        "title": "DragonStrike",
-        "id": "dragonstrike-gog",
-        "img": "https://m.media-amazon.com/images/I/71U10hmyC7L._FMwebp_.jpg",
-        "link": "https://gaming.amazon.com/dragonstrike-gog/dp/amzn1.pg.item.0aa4e118-1a0f-435f-a1e6-5cb1370161e4?ingress=amzn&ref_=SM_DragonStrike_S01_FGWP_CRWN",
-        "market": "amazon"
-    },
-    {
-        "title": "Nightingale",
-        "id": "1928980",
-        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928980/capsule_231x87.jpg?t=1757007478",
-        "link": "https://www.cheapshark.com/redirect?dealID=T95qwOtY2rZhNZ8O0HpmXkbL6xiPBoSrvXRFRLqTYRY%3D",
+        "title": "Gravity Circuit",
+        "id": "858710",
+        "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/capsule_231x87.jpg?t=1748595661",
+        "link": "https://www.cheapshark.com/redirect?dealID=r5pDVisXHT8rc3uec%2FLnGJRz4YmO8PGEBVncN8MzpAM%3D",
         "market": "epic_games"
     }
 ]
